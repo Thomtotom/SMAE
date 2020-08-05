@@ -1,0 +1,35 @@
+h1, h2, h3, h4, h5, h6, p {
+    text-align: left;
+    margin-left: 30%;
+  
+    
+}
+
+.alert {
+    padding: 20px;
+    background-color: white;
+    color: black;
+    margin: 1rem, gold;
+    width: 50%;
+    height: 100%;
+    
+  }
+
+  .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  body{
+    background-image: url("PICTURE'S/ruins.jpeg");
+    
+  }
+
+  
+  
